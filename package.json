@@ -1,17 +1,17 @@
 {
-  "name": "javascript-action",
-  "description": "GitHub Actions JavaScript Template",
-  "version": "0.0.0",
-  "author": "",
+  "name": "anti-slop",
+  "description": "Score PR authors for high-volume template-like contribution patterns",
+  "version": "1.0.0",
+  "author": "Tlaster",
   "type": "module",
   "private": true,
-  "homepage": "https://github.com/actions/javascript-action#readme",
+  "homepage": "https://github.com/Tlaster/anti-slop#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/javascript-action.git"
+    "url": "git+https://github.com/Tlaster/anti-slop.git"
   },
   "bugs": {
-    "url": "https://github.com/actions/javascript-action/issues"
+    "url": "https://github.com/Tlaster/anti-slop/issues"
   },
   "keywords": [
     "actions"
